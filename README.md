@@ -26,7 +26,7 @@
 <PageTitle>Nuevo Componente Mensaje</PageTitle>
 ```
 
-5. Incluir la ruta del nuevo componente en el NavMenu.razor 
+5. Incluir la ruta del nuevo componente en el **NavMenu.razor** 
 
 ```razor
 ...
