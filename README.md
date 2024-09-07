@@ -4,7 +4,11 @@
 
 1. Abrir la aplicación Blazor con Visual Studio 2022
 
-2. Crear un nuevo Componente **Mensaje.razor**
+2. Crear un nuevo Componente **Mensaje.razor** pulsando sobre el botón derecho del ratón en la carpeta **Pages** y seleccionando la opción **Agregar->Componente de Razor...**
+
+![image](https://github.com/user-attachments/assets/71a3d640-1419-4c17-b165-3089e245b68b)
+
+Vemos el nuevo Componente en el Explorador de Soluciones
 
 ![image](https://github.com/user-attachments/assets/981d0069-472d-4b6d-b348-22e0ba7d2e44)
 
