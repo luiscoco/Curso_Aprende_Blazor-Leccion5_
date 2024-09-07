@@ -6,6 +6,10 @@
 
 2. Crear un nuevo Componente **Mensaje.razor**
 
+![image](https://github.com/user-attachments/assets/981d0069-472d-4b6d-b348-22e0ba7d2e44)
+
+Este es el código del nuevo Componente:
+
 ```razor
 @page "/mensaje"
 
