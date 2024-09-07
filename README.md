@@ -2,6 +2,10 @@
 
 # LECCIÓN 5: Cómo crear tu primer Componente (Visual Studio 2022)
 
+**NOTA**: El video youtube de esta Lección5 está disponible en el siguiente vínculo: 
+
+https://www.youtube.com/watch?v=gskx335adqY
+
 1. Abrir la aplicación Blazor con Visual Studio 2022
 
 2. Crear un nuevo Componente **Mensaje.razor** pulsando sobre el botón derecho del ratón en la carpeta **Pages** y seleccionando la opción **Agregar->Componente de Razor...**
