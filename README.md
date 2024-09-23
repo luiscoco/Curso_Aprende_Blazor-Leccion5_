@@ -1,10 +1,6 @@
 # CURSO: APRENDE BLAZOR
 
-# LECCIÓN 5: Cómo crear tu primer Componente (Visual Studio 2022)
-
-**NOTA**: El video youtube de esta Lección5 está disponible en el siguiente vínculo: 
-
-https://www.youtube.com/watch?v=gskx335adqY
+# LECCIÓN 6: Cómo crear tu primer Componente (Visual Studio 2022)
 
 1. Abrir la aplicación Blazor con Visual Studio 2022
 
